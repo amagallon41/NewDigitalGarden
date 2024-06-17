@@ -1,12 +1,18 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: My Third Blog Post
-author: Astro Learner
-description: "I had some challenges, but asking in the community really helped!"
+title: Web Projects
+author: Alexis Magallon
+description: "Web projects that are completed or in progress"
 image:
     url: "https://docs.astro.build/assets/rays.webp"
     alt: "Thumbnail of Astro rays."
 pubDate: 2022-07-15
-tags: ["astro", "learning in public", "setbacks", "community"]
+tags: ["web", "design", "in-progress", "complete"]
 ---
-It wasn't always smooth sailing, but I'm enjoying building with Astro. And, the [Discord community](https://astro.build/chat) is really friendly and helpful!
+# **WEB**
+
+## Project Links
+- [Daily Dose of Jokes](https://dailydoseofjokes.netlify.app/)
+- [Date & Time](https://startling-melomakarona-2dbf7b.netlify.app/)
+- [Learning Astro](https://tourmaline-brigadeiros-27477a.netlify.app/)
+- [3D Cards](https://idyllic-creponne-ee883d.netlify.app/)
