@@ -18,5 +18,5 @@ tags: ["projects", "in-progress", "design"]
 **Hoonin**
 
 **Evil Eye**
-![Evil Eye Vector](../../img/Evil_Eye.png)
+![Evil Eye Vector](/img/Evil_Eye.png)
 
