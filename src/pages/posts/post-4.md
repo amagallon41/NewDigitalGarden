@@ -20,7 +20,6 @@ tags: ["projects", "in-progress", "design"]
 **Hoonin**
 
 **Evil Eye**
-![Evil Eye Vector](/workspaces/NewDigitalGarden/src/img/Evil_Eye.png)
 
 **Lost in thought**
 
