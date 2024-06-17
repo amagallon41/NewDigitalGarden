@@ -1,7 +1,13 @@
 ---
-
+layout: ../../layouts/MarkdownPostLayout.astro
 title: Turnbull National Wildlife Refuge
-
+pubDate: 2024-05-15
+description: 'This is the first post for my portfolio'
+author: 'Alexis Magallon'
+image:
+    url: 'https://docs.astro.build/assets/full-logo-light.png'
+    alt: 'The full Astro logo.'
+tags: ["portfolio", "documenting", "client work"]
 ---
 
 # Project 1
