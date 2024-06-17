@@ -5,11 +5,11 @@ html {
 
   html.dark {
     background-color: darkslategrey;
-    color: #fff;
+    color: #9e9675;
   }
   
   .dark .nav-links a {
-    color: #fff;
+    color: #9e9675;
   }
   
   body {
