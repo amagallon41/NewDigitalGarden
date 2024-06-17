@@ -22,3 +22,13 @@ tags: ["projects", "in-progress", "design"]
 **Evil Eye**
 ![Evil Eye Vector](/workspaces/NewDigitalGarden/src/img/Evil_Eye.png)
 
+**Lost in thought**
+
+### Client Work
+ **The Basement**
+ Drink Menu
+
+ **4T Acres Farms**
+ Ranch Branding
+
+
