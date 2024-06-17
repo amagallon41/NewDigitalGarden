@@ -1,26 +1,16 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'My First Blog Post'
+title: 'Turnbull National Wildlife Refuge'
 pubDate: 2022-07-01
-description: 'This is the first post of my new Astro blog.'
-author: 'Astro Learner'
+description: 'Client work'
+author: 'Alexis Magallon'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'The full Astro logo.'
-tags: ["astro", "blogging", "learning in public"]
+tags: ["client work", "blogging", "design"]
 ---
-# My First Blog Post
+# **Tunrbull National Wildlife Refuge**
 
-Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
+Worked with the Turnbull National Wildlife Refuge outside of Cheney, WA.  The project scope was to visually update the public use map, redesign the the rack card, and create a new flyer layout. The assets were to include TNWR’s branding guidlines to represent a personal and indentifiable look for the Wildlife Refuge. The project took about 4 weeks to complete. Assets were printed and presented to the client at the completion date.
 
-## What I've accomplished
-
-1. **Installing Astro**: First, I created a new Astro project and set up my online accounts.
-
-2. **Making Pages**: I then learned how to make pages by creating new `.astro` files and placing them in the `src/pages/` folder.
-
-3. **Making Blog Posts**: This is my first blog post! I now have Astro pages and Markdown posts!
-
-## What's next
-
-I will finish the Astro tutorial, and then keep adding more posts. Watch this space for more to come.
+![Turnbull National Wildlife Refuge Public Use Map](/assets/images/Magallon, Alexis Turnbull Map (Final)-01.png)
