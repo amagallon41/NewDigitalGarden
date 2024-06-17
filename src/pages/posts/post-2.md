@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: Illustrations
+title: 'Illustrations'
 author: Alexis Magallon
 description: "Illustrations over the years"
 image:
