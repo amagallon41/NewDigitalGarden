@@ -1,7 +1,7 @@
 html {
     background-color: #f8eab0;
     font-family: sans-serif;
-    color: #44241c;
+    color: darkslategrey;
   }
 
   html.dark {
@@ -54,7 +54,7 @@ html {
 }
 
 .nav-links a {
-  color: darkslategrey;
+  color: #44241c;
   display: block;
   text-align: center;
   padding: 10px 0;
